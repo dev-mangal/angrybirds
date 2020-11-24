@@ -1,3 +1,2 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
-Added platform and learned git today
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
